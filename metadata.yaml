@@ -1,0 +1,55 @@
+_repo: The-Skylark-of-Space_20869
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Smith, E. E. (Edward Elmer)
+    aliases:
+    - Smith, Doc
+    - Smith, Edward Elmer
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '9515'
+    url: http://www.gutenberg.org/2009/agents/9515
+    wikipedia: http://en.wikipedia.org/wiki/E._E._Smith
+  - agent_name: Garby, Lee Hawkins
+    birthdate: 1892
+    deathdate: 1953
+    gutenberg_agent_id: '9580'
+    url: http://www.gutenberg.org/2009/agents/9580
+    wikipedia: http://en.wikipedia.org/wiki/Lee_Hawkins_Garby
+description: "The Skylark of Space is a science fiction novel by American writer Edward\
+  \ E. \"Doc\" Smith, written between 1915 and 1921 while Smith was working on his\
+  \ doctorate. Though the original idea for the novel was Smith's, he co-wrote the\
+  \ first part of the novel with Lee Hawkins Garby, the wife of his college classmate\
+  \ and later neighbor Carl Garby. The novel starts as an edisonade, but turns into\
+  \ a space travel adventure when the characters goes into deep space. The Skylark\
+  \ of Space is considered to be one of the earliest novels of interstellar travel\
+  \ and the first example of space opera. Originally serialized in 1928 in the magazine\
+  \ Amazing Stories, it was first published in book form in 1946 by the Buffalo Book\
+  \ Co. The novel was followed by three sequels, beginning with Skylark Three.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20869'
+  wikidata: Q3208037
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Space flight -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Space ships -- Fiction'
+title: The Skylark of Space
+url: http://www.gutenberg.org/ebooks/20869
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Cur%C3%A9e_des_astres
+- https://en.wikipedia.org/wiki/The_Skylark_of_Space
+- https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%A3%BC%EC%9D%98_%EC%A2%85%EB%8B%AC%EC%83%88
+- https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E3%81%AE%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%A9%E3%83%BC%E3%82%AF
