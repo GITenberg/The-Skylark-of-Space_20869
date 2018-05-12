@@ -31,6 +31,8 @@ description: "The Skylark of Space is a science fiction novel by American writer
   \ Amazing Stories, it was first published in book form in 1946 by the Buffalo Book\
   \ Co. The novel was followed by three sequels, beginning with Skylark Three.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20869#The-Skylark-of-Space
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-03-21'
 gutenberg_type: Text
